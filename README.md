@@ -1,19 +1,12 @@
-## Bienvenue sur le Barometre de la sécurité DNS 2021
+# Bienvenue sur le Barometre de la sécurité DNS 2021
 
-You can use the [editor on GitHub](https://github.com/merox-io/barometre/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Pour en savoir plus sur [Merox](https://merox.io) à l'origine de cette première édition 2021 du baromètre de la (cyber)sécurité DNS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Merox est notamment membre de Digital 113, Hexatrust Occitanie, la Global Cyber Alliance...
 
-### Markdown
+## Contexte et objectifs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+Lorem ipsum
 
 - Bulleted
 - List
@@ -24,14 +17,67 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Méthodologie
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/merox-io/barometre/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Lorem ipsum
 
-### Support or Contact
+- Bulleted
+- List
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+
+
+## Informations clés
+
+Lorem ipsum
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+
+
+## Analyse
+
+Lorem ipsum
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+
+
+## Pour aller plus loin
+
+Lorem ipsum
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+
+## Contact
+
+Des questions, remarques, suggestions ? Contactez-nous via le [formulaire suivant](https://merox.io/fr/contact/) ou par email à contact_AT_merox_DOT_io
