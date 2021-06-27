@@ -1,4 +1,4 @@
-# Bienvenue sur le Barometre de la sécurité DNS 2021
+# Barometre de la sécurité DNS 2021
 
 Pour en savoir plus sur [Merox](https://merox.io) à l'origine de cette première édition 2021 du baromètre de la (cyber)sécurité DNS.
 
