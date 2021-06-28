@@ -1,82 +1,24 @@
+[ PUBLICATION DU BAROMETRE COMPLET DANS QUELQUES JOURS - POST RCO 2021 ]
+
 # Barometre de la sécurité DNS 2021
 
-Pour en savoir plus sur [Merox](https://merox.io) à l'origine de cette première édition 2021 du baromètre de la (cyber)sécurité DNS.
+La société Montpelliéraine Merox est à l'origine de cette première édition 2021 du baromètre de la (cyber)sécurité DNS.
 
 Merox est notamment membre de Digital 113, Hexatrust Occitanie, la Global Cyber Alliance...
 
-## Contexte et objectifs
+Pour en savoir plus : [Merox](https://merox.io) 
 
-Lorem ipsum
+## Contexte
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
+## Objectifs
 
 ## Méthodologie
 
-Lorem ipsum
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
 ## Informations clés
-
-Lorem ipsum
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
 
 ## Analyse
 
-Lorem ipsum
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
 ## Pour aller plus loin
-
-Lorem ipsum
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 
 ## Contact
 
